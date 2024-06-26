@@ -13,7 +13,7 @@ public class Solution {
         //System.out.println("Enter Second integer value here: ");
         int input2= sc.nextInt();
 
-        //System.out.println("Enter thard integer value here: ");
+        //System.out.println("Enter third integer value here: ");
         int input3= sc.nextInt();
 
         System.out.println(input1);
